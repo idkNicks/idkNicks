@@ -1,4 +1,4 @@
-[![idkNick's github stats](https://github-readme-stats.vercel.app/api?username=idkNick&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)  
+[![idkNicks's github stats](https://github-readme-stats.vercel.app/api?username=idkNicks&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)  
 
 # Studying..
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
